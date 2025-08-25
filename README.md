@@ -1,5 +1,11 @@
-<h1 align="center">Higgs Audio V2: Redefining Expressiveness in Audio Generation</h1>
+<h1 align="center">I'm AlexJamesDean, Higgs is my #1 go-to TTS. On my 3060 I've had it running as low as 1.4x RTF which for such an expressive and well-built model is blazing fast.</h1>
+<ul>
+  <li>This Repo may not be changed (We'll see)</li>
+  <li>This Repo is a basis for further research locally</li>
+  <lI>If it gains some traction around my clients I may release them here under seperate brances.</lI>
+</ul>
 
+<h1 align="center">Higgs Audio V2: Redefining Expressiveness in Audio Generation</h1>
 <div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
   <a href="https://boson.ai/blog/higgs-audio-v2"><img src='https://img.shields.io/badge/🚀-Launch Blogpost-228B22' style="margin-right: 5px;"></a>
   <a href="https://boson.ai/demo/tts"><img src="https://img.shields.io/badge/🕹️-Boson%20AI%20Playground-9C276A" style="margin-right: 5px;"></a>
