@@ -302,3 +302,7 @@ If you feel the repository is helpful, please kindly cite as:
 ## Third-Party Licenses
 
 The `boson_multimodal/audio_processing/` directory contains code derived from third-party repositories, primarily from [xcodec](https://github.com/zhenye234/xcodec). Please see the [`LICENSE`](boson_multimodal/audio_processing/LICENSE) in that directory for complete attribution and licensing information.
+
+I fix the bugs other devs gaslight you about.
+A I tools, Five M systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
